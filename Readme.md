@@ -4,3 +4,4 @@ Footer
 Login Page
 Login API
 JWT Authentication
+Reset Password
