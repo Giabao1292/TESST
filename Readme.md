@@ -7,3 +7,4 @@ JWT Authentication
 Reset Password
 New Account
 Hoc bai
+Study
