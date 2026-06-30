@@ -5,3 +5,4 @@ Login Page
 Login API
 JWT Authentication
 Reset Password
+New Account
