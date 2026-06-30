@@ -8,4 +8,3 @@ Reset Password
 New Account
 Hoc bai
 Study
-Mot nha
